@@ -1,0 +1,21 @@
+body{
+	font-family: Open+Sans+Condensed:300;
+	text-align: center;
+	padding: 20px;
+	width: 600px;
+	background: #FFF1BA;
+	color: black;
+	border: 2px solid white;
+}
+
+footer{
+	background: black;
+	width: 600px;
+	height: 30px;
+	padding: 20px;
+	color: white
+}
+img{
+	border-radius: 50%;
+
+}
