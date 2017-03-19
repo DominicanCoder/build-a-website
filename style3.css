@@ -1,21 +1,43 @@
 body{
-	font-family: Open+Sans+Condensed:300;
+	margin: 0 auto;
+	font-family: Roboto;
 	text-align: center;
 	padding: 20px;
 	width: 600px;
-	background: #FFF1BA;
 	color: black;
-	border: 2px solid white;
+	border: 10px solid black;
+
+}
+header{
+text-indent: center;
+}
+p{   
+    padding: 40px;
+	margin: 0 auto;
+	background: rgb(214, 245, 245 .4);
+}
+#project{
+	border-radius: 50px;
+
+	margin: 0 auto;
+}
+h2,h1{
+	text-decoration: underline;
 }
 
 footer{
+	margin:0;
+
+	font-style: uppercase;
+    font-family: Roboto;
 	background: black;
-	width: 600px;
-	height: 30px;
-	padding: 20px;
-	color: white
+	height: 100px;
+	color: white;
 }
-img{
-	border-radius: 50%;
+img{border-radius: 30px;
+	width: 200px;
+	height: 200px;
 
 }
+
+
